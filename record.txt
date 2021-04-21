@@ -1,0 +1,8 @@
+1001	 Dhruv	 Patel	 985631245	 Surat	 640000
+1002	 Salman	 Khan	 7894561231	 Pune	 12000
+1003	 Varun	 Dhawan	 7894561235	 Delhi	 5000
+1005	 rahul	 patel	 5689231245	 goa	 100
+1006	 soham	 khan	 8956231245	 ranchi	 10000
+1007	 prit	 pethani	 1256897845	 surat	 60000
+1008	 farhan	 aktar	 6895612457	 indore	 5000
+1009	 RAJ	 PATEL	 5689231245	 SURAT	 500
